@@ -1,2 +1,2 @@
 # UETMos
-An application contain many mini-projects
+An application contains many mini-projects
